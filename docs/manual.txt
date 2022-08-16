@@ -1,0 +1,1820 @@
+Coconut rhinoceros beetle (Oryctes rhinoceros):  
+A manual for control and management of the 
+pest in Pacific Island countries and territories
+
+Coconut rhinoceros beetle (Oryctes rhinoceros):  
+A manual for control and management of the pest  
+
+in Pacific Island countries and territories
+
+Trevor Jackson1, Sean Marshall1, Sarah Mansfield1, Fereti Atumurirava2
+
+1AgResearch, New Zealand, 2SPC
+
+Suva, Fiji, 2020
+
+© Pacific Community (SPC) 2020
+
+All rights for commercial/for profit reproduction or translation, in any form, reserved. SPC authorises the 
+
+partial reproduction or translation of this material for scientific, educational or research purposes, provided 
+
+that SPC and the source document are properly acknowledged. Permission to reproduce the document 
+and/or translate in whole, in any form, whether for commercial/for profit or non-profit purposes, must be 
+requested in writing. Original SPC artwork may not be altered or separately published without permission.
+
+Original text: English
+
+Pacific Community Cataloguing-in-publication data
+
+Jackson, Trevor
+Coconut rhinoceros beetle (Oryctes rhinoceros): a manual for control and management of the pest in Pacific 
+Island countries and territories / Trevor Jackson, Sean Marshall, Sarah Mansfield, Fereti Atumurirava
+1. 
+2. 
+3. 
+4.  
+5. 
+6. 
+
+Rhinoceros beetle – Oceania.
+Rhinoceros beetle – Control – Oceania – Handbooks, manuals, etc.
+Rhinoceros beetle – Management – Oceania - Handbooks, manuals, etc.
+Oryctes rhinoceros – Oceania.
+Coconut – Diseases and pests – Oceania.
+Coconut – Diseases and pests – Oceania – Handbooks, manuals, etc.
+
+I. Jackson, Trevor II. Marshall, Sean III. Mansfield, Sarah IV. Atumurirava, Fereti V. Title VI. Pacific Community
+
+632.76490995 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AACR2
+
+ISBN: 978-982-00-1359-9
+
+Prepared for publication at SPC’s Suva Regional Office,
+
+Private Mail Bag, Suva, Fiji, 2020
+
+www.spc.int | spc@spc.int
+
+ii
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesContents
+
+Acknowledgements  .............................................................................................................................iv
+
+Introduction  .........................................................................................................................................1
+
+Section 1. Coconut rhinoceros beetle (CRB) in the Pacific .........................................................................2
+1.1   Review  ............................................................................................................................................................................... 2
+1.2   Likely CRB biosecurity high-risk pathways into a country ............................................................................... 2
+1.3   References ........................................................................................................................................................................ 4
+
+Section 2. Diagnostics: Pest and symptom recognition  ...........................................................................5
+2.1  Beetle life cycle and recognition .............................................................................................................................. 5
+2.2  Sample collection and handling  .............................................................................................................................. 8
+2.3  Damage assessment ...................................................................................................................................................10
+2.4   Delimitation and baseline surveys  ........................................................................................................................ 13
+2.5   References  ..................................................................................................................................................................... 13
+
+Section 3. Control actions for CRB .........................................................................................................14
+3.1   Sanitation ........................................................................................................................................................................ 14
+3.2   Trapping .......................................................................................................................................................................... 15
+3.3   Mechanical control ...................................................................................................................................................... 19
+3.4   Chemical control .......................................................................................................................................................... 19
+3.5   Biological control  ........................................................................................................................................................20
+3.6   Integrated pest management (IPM) ......................................................................................................................20
+
+References  .........................................................................................................................................22
+
+Annex 1. Delimiting survey for assessing an outbreak of CRB ................................................................23
+
+Annex 2. CRB emergency response plan ...............................................................................................26
+
+Annex 3. Guidelines for field collection of live CRB adults and larvae .....................................................29
+
+Annex 4. Collection, preparation and shipment of CRB samples for DNA analysis .......................................31
+
+iii
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesAcknowledgements
+
+Production of this manual has been supported with funding from the New 
+Zealand Aid Programme of the Ministry of Foreign Affairs and Trade (MFAT).
+
+iv
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesIntroduction 
+
+This  manual  has  been  developed  to  support  trainers  in  building  the  capacity  of  biosecurity  and  extension 
+workers for the control and management of coconut rhinoceros beetles (CRB) in the Pacific region. It draws on 
+extensive literature on CRB, especially as it relates to the Pacific Island countries and territories (PICTs), as well as 
+knowledge from current and former colleagues who have worked to control and manage this pest. Publication 
+of this manual is timely as the Pacific region is challenged by the invasion of a new CRB biotype, the CRB-G, and 
+there remains a need to regain control of the established biotype CRB-S, which has hampered the success of 
+renovation programmes for mature tall palms as well as newly emergent, high-value coconut product industries 
+(e.g. virgin oil and coconut water) that offer economic opportunities for villagers in the region.
+
+This manual is aimed at the new generation of scientists, technicians and extension officers who are tasked 
+with controlling invasive species and promoting local agricultural initiatives. It is not intended to replace or 
+substitute  the  positive  reviews  from  Bedford  (1980,  2013a),  Godshen  (2015),  Huger  (2005)  or  the  numerous 
+works of Zelazny and others, from which this manual draws extensively. Summaries on CRB are also provided 
+by CABI (www.cabi.org/isc/datasheet/37974, accessed 3 September 2019) and PESTNET (http://www.pestnet.
+org/fact_sheets/coconut_rhinoceros_beetle__oryctes_108.htm, accessed 3 September 2019). Key documents 
+are available from the Pacific Community (SPC) and a thorough and extensive list of scientific papers pertaining 
+to CRB can be found in Godshen (2015). Information is provided in this manual to support trainers and leaders 
+to understand CRB biology, identify CRB invasions, and take appropriate action in order to reduce the impact 
+caused by the invasions. 
+
+The manual is divided into three sections. The first section provides a brief review of CRB in the Pacific and an 
+update on the status of the pest in the region. The second section provides information to support recognition of 
+the pest, recognition and assessment of the damage it causes, as well as methods for collection and handling of 
+the pest after it has been identified. Relevant contacts are also provided to facilitate access to expert assistance, 
+where needed, and methods are outlined for further diagnostics. Obtaining this information and recording 
+it in a systematic way is essential to: a) conduct delimitation surveys; b) measure the severity of attack; and c) 
+provide a baseline to monitor the effectiveness of control actions. The third section covers control actions for 
+CRB in the Pacific and draws on the experiences of our colleagues in the CRB Action Task Force, particularly 
+those working in Guam, Solomon Islands and Papua New Guinea (PNG) to control the invasive CRB-G biotype. 
+
+The emergence of CRB-G as an invasive pest underpins the need for a revision of data and a revitalisation of the 
+IPM system for CRB to protect coconut and oil palm production. This issue prompted a revision of CRB data and 
+production of this manual.
+
+1
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesSection 1.  Coconut rhinoceros beetle in the Pacific
+
+1.1  Review 
+
+For over a century, Pacific Island authorities and states have been confronted by an invasive insect from Asia, CRB 
+(Oryctes rhinoceros L.). The CRB was inadvertently introduced into Upolu, Samoa, 1909 in rubber seedling plants 
+in pots from Ceylon (now Sri Lanka) and, then, established itself on the island, multiplied and spread rapidly, 
+causing extensive damage to coconut palms (Cocos nucifera) and requiring measures for its management. The 
+initial invasion, described by Bedford (1980), spread throughout Samoa and American Samoa to Niuatoputapu 
+Island (Tonga) (where it was eradicated) and onward to Wallis Island, Tongatapu (Tonga), Tokelau Islands and 
+Fiji, where it had covered most of the inhabited islands by 1953. Interestingly, DNA analysis of specimens from 
+the main islands indicates that they belong to the same biotype (Marshall, et al. 2017), suggesting that the 
+population expansion was indeed caused by the original introduction of the CRB to Samoa in 1909. A second 
+invasion  of  the  Pacific  appears  to  have  started  with  shipping  and  material  movements  during  the  Second 
+World  War  (Figure  1.1,  Catley  1969).  By  the  1960s,  CRB  was  established  on  the  outer  islands  of  Papua  New 
+Guinea (PNG), including Pak, Manus, New Ireland and New Britain, and on the islands of Palau (Gressitt 1953, 
+Bedford 1980). DNA analysis identifies this group as separate from the original invasion of Samoa (Marshall et 
+al. 2017). The invading populations caused extensive damage to coconut palms, which were the “tree of life” 
+for Pacific peoples and had been in plantations for copra production since the late 19th century. On Samoa, 
+the population was mobilised to collect CRB and clean breeding sites. However, only a major ongoing effort, 
+including legislation and fines, was able to maintain the beetle at tolerable levels. The CRB had a similar effect 
+on other islands, where controls were omitted or ineffective; losses of 50 per cent or more of the standing palms 
+were reported in some areas (Gressitt 1953). Scientists recognised that the CRB invasion on the PICTs was much 
+worse than in South and Southeast Asia and speculated that natural predators were lacking in locations where 
+the pest was most invasive. This phenomenon– in which a pest upsurge is noted after establishment in an area 
+without natural enemies – has since been described as “natural enemy release” (Elton, 1958). Recognising the 
+importance of the problem, international agencies, including the United Nations Development Programme 
+(UNDP),  the  Food  and  Agriculture  Organization  (FAO),  and  SPC,  funded  a  series  of  projects  from  the  1960s 
+to 1980s to develop control methods for CRB (Young 1986). These included pheromone trapping, biological 
+control and Integrated pest management (IPM). Many of the discoveries and methods developed during this 
+era are still in use today. 
+
+1.2  Likely CRB biosecurity high-risk pathways into a country
+
+Although efforts were made to identify putative natural enemies, it was not until the 1960s that Dr Alois Huger 
+discovered a virus in Malaysia with real potential to control CRB in the Pacific. The virus was introduced in 
+Samoa where it rapidly spread and, subsequently, was introduced in the other infested islands where it infected 
+the beetle populations, spread and reduced palm damage (Bedford 1976). The history of virus discovery and 
+use is described by Huger (2005) and Jackson (2009). The virus has been characterised by gene sequencing as 
+the Oryctes rhinoceros Nudivirus (OrNV) (Wang et al. 2008). In recent years, use of DNA PCR detection methods 
+has shown that the virus has persisted in beetle populations where it was originally released (Marshall et al. 
+2017) and that the reduction in palm damage first noted following the initial virus release has been maintained 
+(Bedford 2013b). The virus release programme was so successful that no further spread of CRB from the virus-
+infected populations was reported. While the virus weakened the infected beetle populations and reduced 
+damage, however, it was not the complete solution. Beetle attack could still be highly damaging in areas with 
+a large amount of breeding material, such as felled palms after cyclones or replanting or unmanaged heaps of 
+organic matter. For this reason, and to avoid excessive damage, IPM – including the use of biological, chemical 
+and cultural controls – has been promoted for CRB in the Pacific Islands. (Further information is provided below.)
+
+2
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesIn 2007, a new and highly damaging outbreak of CRB was reported from the island of Guam. Surprisingly, the 
+beetles were unaffected by the existing biocontrol strains of OrNV and other control measures were insufficient 
+to prevent the beetle from spreading around the whole island. The attack on Guam marked the start of a new 
+wave of damaging invasions of CRB reported from Hawaii (Honolulu), PNG (Port Moresby), and the Solomon 
+Islands (Honiara). These new invasions were all found to be caused by a distinct biotype of the beetle, CRB-G 
+(Marshall  et  al.  2017).  CRB-G  is  defined  by  genotype  and  as  a  distinct  biotype  that  is  resistant/tolerant  to 
+biocontrol strains of the OrNV. The CRB-S biotype is defined as beetles susceptible to OrNV. The CRB-G and 
+CRB-S  biotypes  are  each  comprised  of  several  haplotypes  (genetically  distinct  subgroups  within  a  species) 
+reflecting their geographic origin (Marshall et al. 2017). Genetic analysis suggests that the CRB-G outbreaks 
+have been mediated through human transport from a source in the Asian Northwest Pacific (Reil et al. 2018).
+
+Figure 1.1 Historic distribution of CRB in the Pacific (Redrawn from Catley 1969) 
+
+Key: Green indicates the native range of CRB; and orange indicates an invasion by CRB-S.
+The current distribution of CRB is presented in an online interactive map showing reports of CRB from the endemic zone 
+(green symbols), the original invasion zone (orange symbols) and recent invasions by CRB-G (red symbols) (Moore 2018, 
+http://aubreymoore.github.io/crbdist/mymap.html accessed 5 July 2019). A snapshot of this map is shown below (Figure 1.2). 
+
+3
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesFigure 1.2  Native and invaded geographic range of CRB, including the recent invasion of CRB-G (courtesy of 
+Aubrey Moore, University of Guam)
+1.3  References
+Bedford GO. 1980. Biology, ecology, and control of palm 
+rhinoceros  beetles.  Annual  Review  of  Entomology 
+25: 309–339.
+
+Oryctes 
+Journal of Invertebrate Pathology 89: 78–84.
+
+(Coleoptera: 
+
+rhinoceros 
+
+Scarabaeidae). 
+
+Bedford GO. 2013a. Biology and management of palm 
+dynastid beetles: Recent advances. Annual Review of 
+Entomology 58: 353–372.
+
+Bedford GO. 2013b. Long-term reduction in damage by 
+rhinoceros beetle Oryctes rhinoceros (L.) (Coleoptera: 
+Scarabaeidae:  Dynastinae)  to  coconut  palms  at 
+Oryctes Nudivirus release sites on Viti Levi, Fiji. African 
+Journal of Agricultural Research 8: 6422–6425.
+
+Catley  A.  1969.  The  coconut  rhinoceros  beetle Oryctes 
+rhinoceros (L.) (Coleoptera: Scarabaeidae: Dynastinae). 
+PANS 15(1): 18–30.
+
+Elton CS. 1958. The ecology of invasions by animals and 
+
+plants. London: Chapman and Hall.
+
+Godshen  RP.  2015.  Oryctes  rhinoceros  (L.)  Coleoptera: 
+Scarabaeidae. Coconut Rhinoceros Beetle. New Pest 
+Response Guidelines. USDA, 180 pp.
+
+Gressitt JL. 1953. The Coconut Rhinoceros Beetle (Oryctes 
+rhinoceros)  with  particular  reference  to  the  Palau 
+Islands. Bernice P. Bishop Museum Bulletin 212, 1–157.
+Huger  AM.  2005.  The  Oryctes  virus:  Its  detection, 
+identification,  and 
+in  biological 
+control  of  the  coconut  palm  rhinoceros  beetle, 
+
+implementation 
+
+4
+
+Jackson  TA.  2009.  The  use  of  Oryctes  virus  for  control 
+of  rhinoceros  beetle  in  the  Pacific  Islands.  pp.  113–
+140  in  Hajek  AE,  Glare  T,  O’Callaghan  M.  (eds),  Use 
+of  Microbes  for  Control  and  Eradication  of  Invasive 
+Arthropods. Dordrecht, Netherlands: Springer.
+
+Marshall  SDG,  Moore  A,  Vaqalo  M,  Noble  A,  and 
+Jackson  TA.  2017.  A  new  haplotype  of  the  coconut 
+rhinoceros  beetle,  Oryctes  rhinoceros,  has  escaped 
+biological control by Oryctes rhinoceros nudivirus and 
+is  invading  Pacific  Islands.  Journal  of  Invertebrate 
+Pathology 149: 127–134.
+
+Reil JB, Doorenweerd C, San Jose M, Sim SB, Geib SM, 
+Rubinoff  D.  2018.  Transpacific  coalescent  pathways 
+of  coconut  rhinoceros  beetle  biotypes:  Resistance 
+to biological control catalyses resurgence of an old 
+pest. Molecular Ecology 27: 4459–4474.
+
+Wang YJ, Kleespies RG, Ramle MB, and Jehle JA. 2008. 
+Sequencing  of  the  large  dsDNA  genome  of Oryctes 
+rhinoceros  nudivirus  using  multiple  displacement 
+amplification  of  nanogram  amounts  of  virus  DNA. 
+Journal of Virological Methods 152: 106–108.
+
+Young EC. 1986. The rhinoceros beetle research project: 
+History  and  review  of  the  research  programme. 
+Agriculture, Ecosystems and Environment 15: 149–166.
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesSection 2.  Diagnostics: Pest and symptom recognition 
+
+2.1  Beetle life cycle and recognition
+
+The CRB belongs to the sub-family Dynastinae of the large Scarabaeidae family of beetles. The Dynastinae 
+include a wide range of long-horned beetles with many species endemic to Asia. Natural diversity decreases 
+with distance from the Asian mainland with no endemic species from this group present on the smaller islands 
+of the central Pacific. CRB undergoes the typical scarab beetle life cycle, growing from egg to adult through 
+three larval stages (instars) before transforming through pupation into a new adult (Figure 2.1). 
+
+Figure 2.1  Life cycle of the CRB (University of Guam)
+
+The duration of the life cycle will depend on environmental conditions, but the time from egg to adult can 
+be as little as five months in conditions with adequate food, temperature and humidity. The female beetle 
+lays eggs after mating in rotting palm trunks or other organic matter (palm debris, compost). The eggs are 
+laid individually – approximately three per beetle per week, resulting in an estimated 100 eggs per female. 
+The eggs are white, elliptical (3.5 x 4.0 millimetres) and produce the first instar larvae in 8–12 days. Larvae are 
+C-shaped, whitish with a reddish-brown head capsule with sclerotised mouthparts, a darkened area visible in 
+the posterior abdomen « fermentation chamber » indicating the internal modification of the gut (Figure 2.2). 
+
+5
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesFigure 2.2 Larva of CRB 
+
+The larvae grow rapidly, passing through each of the first and second instars in approximately 2—3 weeks, 
+before entering the longer third instar stage (9–24 weeks) where the larvae accumulate most of their mass, 
+growing up to 100 millimetre in length and about 10 grams in weight (Figure 2.2). Prior to pupation, the larvae 
+stop feeding and their bodies change to a creamy colour and shrink slightly. The pre-pupal larva forms a cell 
+and differentiates into the pupal stage which lasts for approximately three weeks before metamorphosising 
+into the adult beetle. 
+
+The adult beetle emerges from the puparium and remains in the feeding site for several days while the chitinous 
+exoskeleton hardens. The beetle is large (30-60 millimetres in length and 4–12 grams in weight depending 
+on growth conditions), dark red-brown to black in colour, with the head, pronotum and elytra (wing cases) 
+observable from above (Figure 2.3). 
+
+elytra
+
+pronotum
+
+head
+
+foreleg
+
+eye
+
+antenna
+
+Figure 2.3 Adult CRB
+
+6
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesThe  head  supports  a  broad  horn  (of  variable  size)  extending  from  the  clypeus  (above  the  mouthparts). 
+Males generally have a larger horn than females, but horn size cannot be used as a definitive differentiating 
+characteristic. Club-like laminate antennae, typical of the Scarabaeidae, extend laterally concealing the strong 
+mandibles which are used for grasping. The relatively small maxillary and labial palps can also be observed in 
+the lower (ventral) area surrounding the mouth (not visible in Figure 2.3). The eyes are set into the sides of the 
+head in front of the broad pronotum which extends across the body. The pronotum covers the first thoracic 
+segment from which the broad, toothed forelegs extend. The remainder of the upper (dorsal) surface is covered 
+by the elytra. These are the sclerotised, protective forewings and must be lifted for the insect to take flight using 
+the rear pair of wings. The bulk of the body comprises the segmented abdomen which contains the gut and 
+reproductive structures. To determine the sex of the insect, a good indicator is to examine the posterior section 
+of the abdomen (pygideum): In male beetles, the posterior sternites are smooth while, in female beetles, the 
+sternites are covered with fine hairs (Figure 2.4). 
+
+Figure 2.4 The pygidium (terminal section of the abdomen) of the female CRB is covered with fine hairs (A&B) 
+
+while the posterior of the male is shiny (C&D). On dissection, the abdomen of the female may contain eggs while 
+
+the male has a large chitinous aedeagus (penis) in the abdominal cavity. 
+
+Determination  of  whether  a  beetle  is  CRB  or  another  species  is  largely  dependent  on  the  location  of  the 
+find. In the central Pacific islands, there are no native or invasive dynastine species, which makes preliminary 
+identification of the large black beetles and huge C-shaped larvae simple. Invasive flower beetles (Cetoninae), 
+chafer beetles (Melolonthinae) and ruteline scarabs (Rutelininae) may be present on some islands but can be 
+readily differentiated on the basis of adult size, colour and other morphological characteristics. In the islands 
+of the western Pacific, O. rhinoceros can be confused with other endemic dynastine scarabs (Bedford 1976). 
+Melanesian rhinoceros beetle (Scapanes australis) and brown rhinoceros beetle (Xylotrupes gideon) occupy similar 
+ecological niches and some stages, especially small larvae, are difficult to differentiate from CRB. Descriptions 
+of co-habiting species and keys for identification are provided by Bedford (1974, 1976) and Beaudoin-Ollivier et al. 
+(2000). To confirm identity, specimens should be sent to Plant Health Laboratory of SPC’s Land Resources Division.
+
+To date, no morphological characteristics have been identified which can be used to differentiate biotypes of 
+CRB. Therefore, genetic methods must be used. Tissue samples must be collected from fresh CRB specimens. 
+Isolation of DNA and biotype identification require specialised facilities. Please contact the SPC Entomologist, 
+mentioned above, regarding shipment of specimens for genetic analysis (Annex 4). 
+
+7
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territories2.2  Sample collection and handling 
+
+CRB adults or larvae are required for identification, ecological studies or assays with chemicals or biological 
+agents for control. In all cases, careful handling and labelling of specimens is required for subsequent evaluation. 
+Insects may be collected from field sites (damaged palms, heaps of compost) or from traps. The collector will 
+need a “chilly bin” (insulated picnic cooler) or frozen blocks to keep it cool as well as several containers or 
+individual tubes for the insects. (Refer to Figure 2.5. Note also that guidelines for sample collection are provided 
+in Annex 3.) 
+
+Figure 2.5  After careful collection from the field, beetles should be placed in individual tubes in a cooler before 
+transportation to the laboratory. A freezer pad or bottle of frozen water can be used to keep the interior cool.
+
+In all cases, the collection should be given a specific recording number and date. The location of each collecting 
+site should be recorded by GPS and a photograph or written description made of the site. It is important to note 
+whether the insects are taken from standing palms or from the compost, the species of the palm, and the level 
+of damage and density of the palms. Adult beetles can also be collected from pheromone traps. For repeat 
+samplings of a specific site, it is only necessary to record factors that have changed if data is maintained in a 
+central database.
+
+The precise manner of the collection will depend on the purpose of the exercise. For a general collection, where 
+the objective is only to describe the population, insects can be combined in a container for later differentiation 
+by species, sex, size, etc. It is important to place larvae into a container with sufficient organic matter substrate 
+(sawdust, compost) in order to avoid damage and cannibalism. If the insects are being collected for further 
+rearing to be used in assays or for studies of pathogens, it is important to place them in individual tubes (25 
+millilitre specimen jars or similar) until further examination. For all collections, it is important to keep the insects 
+out of direct sunlight and to avoid overheating the tubes. Conversely, the insects should not be frozen or kept 
+under refrigeration for long periods. Under natural conditions, CRB are long lived. Therefore, high death rates 
+after collection are unusual and usually associated with the conditions of collection. Larvae, in particular, are 
+sensitive to bruising and damage. If handled roughly, bruising will be noted a few hours after collection and 
+the larvae will become sluggish, die and turn an intense blue/black colour within a few days. Death rates (the 
+proportion of insects that are dead after seven days) among batches of collected larvae should be recorded as 
+these will provide an indicator of collection success.
+
+8
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesDamage recognition 
+
+CRB adults feed on plant tissues of the developing leaves and meristem of several tropical monocot plants, 
+including palms, particularly coconut and oil, as well as banana, sago, and pandanus. (For a list of adult food 
+plants, please refer to Gressitt 1953.) The anatomy of palms is described by Broschat (2013). In both coconut 
+palm and oil palm, the CRB adults fly to the palm and force their way down between the leaf axils until they find 
+a position where they can burrow into the plant. Feeding and damage to coconut palm was described by Young 
+(1975). CRB damage is characterised by straight cuts across the fronds of palms which give the appearance of 
+v-shaped notches in the leaflets of the emerged fronds as if cut with scissors (Figure 2.6). The damage is caused 
+by adult beetles flying to the palm crown and walking down the frond axil until they are lodged between the 
+open frond and the growing spear (Figure 2.7). Securely positioned, they will bore through the spear, cutting 
+leaflets in the compacted un-emerged frond before they reach the soft tissue of the young under-developed 
+fronds. In the most severe cases, beetles will feed on soft leaf tissues (Figure 2.8) until they reach the meristem, 
+leading to destruction of the fronds and even death of the palm. The effect of multiple beetles feeding on the 
+developing fronds was illustrated by Gressitt (1953) and is shown in Figure 2.9. 
+
+Figure 2.6  Coconut palm showing  
+distinctive v-shaped notches in the  
+fronds caused by CRB adult feeding
+
+Figure 2.7  CRB adults in the  
+axil between the emerging  
+
+frond and the spear
+
+Figure 2.8  CRB adults feeding in  
+the soft, core tissue of the palm
+
+Figure 2.9  Damage to the central growing point of the palm (Gressitt 1953)
+
+9
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territories2.3  Damage assessment
+
+a)  Damage assessment in the delimitation survey
+
+Damage assessment should be a part of the delimitation survey. (For further information, see Section 2.5) The 
+distinctive notches produced by feeding adults are a clear marker of CRB and will often be the first indicator of 
+their presence. The assessment team should identify damaged palms, record their location with GPS and record 
+the level of damage with photographs. The site should be mapped for damaged palms and the team should 
+proceed beyond the outbreak area for 1–5 kilometres until no further damage is noted. The results should be 
+discussed with the local community and a reporting system will need to be established in order to monitor 
+potential spread.
+
+b)  Quantifying palm damage 
+
+Quantifying damage from CRB to coconut or oil palm allows sites to be compared. Damage assessment methods 
+can be simple, used only to define the location and intensity of the damage, or they can be more sophisticated, 
+used to monitor changes over time. 
+
+c)  Simple rapid damage assessment (RDA) by counting
+
+Rapid damage assessment (RDA) protocol: Within the assessment area, select a site and mark the position by 
+GPS or a map. At each site, assess 30 to 100 palms individually for signs of CRB damage and record whether 
+or not damage has been identified (Y = damaged or N = undamaged). Calculate the percentage (%) of palms 
+damaged as a simple damage index (between 0 and 100). (See Table 2.1 for an example.) Digital photographs 
+should be taken to confirm the visual survey, or a set of photographs can be taken from the site and assessed 
+later.  Once  calculated,  this  damage  index  can  be  correlated  with  other  factors  (e.g.  geographical  location, 
+plantation management, biocontrol, etc.) and analysed, where necessary.
+
+Table 2.1 Calculation of the damage index using the rapid damage assessment protocol for coconut palms
+
+Site
+
+Palms observed
+
+Palms damaged
+
+Damage index
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+30
+
+50
+
+100
+
+37
+
+45
+
+66
+
+6
+
+35
+
+28
+
+26
+
+42
+
+13
+
+20
+
+70
+
+28
+
+70
+
+93
+
+20
+
+d)  Quantified damage assessment (QDA) 
+
+To  gain  further  information,  a  quantified  damage  assessment  (QDA)  can  be  used.  This  is  most  appropriate 
+where there is a moderate or high proportion of palms damaged and QDA can be used to estimate the level of 
+impact of CRB. QDA can follow on from RDA (in the field or from photos). The level of damage to the crown can 
+be assessed on a 0 to 5 scale. (See Table 2.2.) 
+
+Assessments can be made on a recoding sheet in the field or from photographs of the site. In either case, it 
+is important that a clear view can be obtained of the individual palm crowns. Particular attention should be 
+given to ensure that assessment of individual palms is not repeated (double counting) when moving around. 
+
+10
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesQDAs are easier to conduct on scattered palms in damaged plantations or in villages where damage may be 
+underestimated in dense plantations. 
+
+Multiple photographs or strip photographs can be used to quantify the damage at a site. Individual palms from 
+the photo(s) (Figure 2.10) can be graded according to the QDA scale (Table 2.2) and, subsequently, summed into 
+groups and the leaf area loss estimated. 
+
+Figure 2.10 Coconut palms from a badly damaged site graded on the 1–5 damage scale (Table 2.2)
+
+From the badly damaged site of Figure 2.10, a 65 per cent foliage loss can be estimated (Figure 2.11). Young 
+(1975) established a relationship between leaf area loss and yield; this indicates little yield from the pictured site, 
+which is in line with practical expectations.
+
+Table 2.2 Grading scale for damage to coconut palm fronds caused by CRB 
+
+1
+
+2
+
+3
+
+4
+
+5
+
+GRADE AND DESCRIPTION
+
+ No CRB 
+
+damage evident
+
+Light: Light damage
+
+Notching or tip 
+damage. <20% 
+
+foliar loss
+
+Medium: Multiple 
+fronds affected 
+
+High: Multiple 
+fronds affected 
+
+Notching and breakage. 
+
+Notching and breakage. 
+
+20-50% frond loss
+
+>50% frond loss
+
+Non-recoverable: 
+
+Palm dead or growing 
+
+point destroyed
+
+11
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriess
+s
+o
+
+l
+ 
+
+d
+e
+
+l
+
+ 
+
+i
+y
+%
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+0                 20                40                60
+
+% defoliation
+
+Figure 2.11  Relationship between leaf area loss and yield (Young 1975)
+
+e)  Damage assessment as a biological clock
+
+A healthy coconut palm growing in favourable environmental and nutritional conditions will produce fronds 
+at  approximate  monthly  intervals  and  hold  approximately  20–25  fronds  before  they  senesce  and  drop. 
+Additionally, from formation in the growing point to emergence takes approximately three months. By making 
+an assumption based on these figures, or modifying them for growth in local conditions, it allows us to use the 
+appearance of the coconut palm crown to estimate the age (from formation) of fronds on the palm (Figure 2.12). 
+Estimating the age of first attack may provide clues to the arrival of a CRB incursion. It also indicates success or 
+failure of a CRB control action.
+
+f)  Monitoring new growth for change
+
+Recording damage to the topmost four fronds gives an estimate of feeding and damage that has occurred 
+in the previous six months. This measure can be used to assess the effectiveness of control actions (trapping, 
+sanitation) against the beetle over a short time period and can be used for activity monitoring. 
+
+Figure 2.12  Estimated age in months of fronds (from formation) on a mature coconut palm
+
+12
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territories2.4  Delimitation and baseline surveys
+In an advent of an outbreak, it is important to establish the border of the infested area quickly and to gather 
+information in order to decide what action should follow.
+
+The survey starts from the area where the incursion was reported. Actions to take are listed below.
+
+Establish exactly how and when the pest reached the area.
+
+1. 
+2.  Monitor the speed of the pest’s dispersal.
+3.  Map boundaries and estimate the size of both the area already infested and possible areas into which 
+
+the pest could spread.
+
+4.  Assess the area currently covered by the host plants within the concerned sites.
+5.  Assess the financial loss and social damage caused by the pest if it spreads to the whole endangered 
+
+area.
+Identify plants, plant products or other articles, whose movement out of the infested area need to be 
+regulated in order to contain the pest.
+Identify owner(s) of the plants, plant products or other articles. 
+Identify  how  these  plants  or  other  articles  could  spread  further  (wind,  human  transport)  e.g.  boat, 
+aircraft, private and public vehicles)].
+
+6. 
+
+7. 
+
+8. 
+
+9.  Assess the possibilities of stopping the pest from spreading further.
+10.  Assess the feasibility, cost and possible problems of containing, eradicating and managing the pest 
+
+outbreaks.
+Identify how and where infested plants and/or products could be treated or disposed.
+
+11. 
+12.  Take pictures of the pest, symptoms, affected plants and areas.
+
+Inform local authorities, extension officers and producers about the host crops. 
+
+13. 
+14.  Recommend local staff who would need to be engaged in further actions.
+
+As an example, Annex 1 provides the procedures used for the delimiting survey implemented in the Solomon 
+Islands after the invasion of CRB-G. 
+
+Once  an  invasion  of  CRB  is  confirmed,  an  Emergency  Response  Plan  should  be  developed,  based  on  the 
+Biosecurity Incident Management System (BIMS) framework provided in Annex 2. 
+
+2.5  References 
+Beaudoin-Ollivier  L,  Prior  RNB,  and  Laup  S.  2000.  Simplified  field  key  to  identify  larvae  of  some  rhinoceros 
+beetles and associated scarabs (Coleoptera: Scarabaeoidea) in Papua New Guinea coconut developments. 
+Annals of the Entomological Society of America 93:90–95.
+
+Bedford  GO.  1974.  Descriptions  of  the  larvae  of  some  rhinoceros  beetles  (Col.,  Scarabaeidae,  Dynastinae) 
+
+associated with coconut palms in New Guinea. Bulletin of Entomological Research 63:445–472.
+
+Bedford GO. 1976. Rhinoceros beetles in Papua New Guinea. South Pacific Bulletin 26(3): 38–41.
+Broschat TK. 2013. Palm morphology and anatomy. Available at: edis.ifas.ufl.edu/ep473 (accessed 09 July 2020).
+Gressitt JL. 1953. The coconut rhinoceros beetle (Oryctes rhinoceros) with particular reference to the Palau Islands. 
+
+Bernice P Bishop Museum Bulletin 212, 82 pp.
+
+Young EC. 1975. A study of rhinoceros beetle damage in coconut palms. South Pacific Commission Technical 
+
+Paper no. 170, Noumea, New Caledonia. 
+
+13
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesSection 3.  Control actions for CRB
+
+CRB is endemic to Southeast Asia where the distinctive v-shaped notches caused by adult feeding are seen 
+frequently in coconut palms but the damage is seldom sufficient to warrant control. The insect becomes a pest, 
+causing severe damage, where there is an abundance of old palm trunks and organic matter, such as that left 
+after cyclones or after felling senile palms for establishment of new plantations (Figure 3.1). In these conditions, 
+female beetles will fly into the area and lay eggs in the organic matter with high numbers of larvae developing 
+in the decaying material. When this generation emerges, the numbers of beetles and the continuing abundance 
+of food resources can lead to a population explosion and emergence of particularly high numbers in the second 
+generation. These numerous emergent adults will cause significant damage to the nearby palms, even killing 
+many, which leads to further substrate availability and an ongoing problem from the beetles. 
+
+ 
+
+Figure 3.1  A) High numbers of CRB larvae removed from a section of palm trunk   
+
+            B) Heavy damage to a coconut plantation near Honiara, Solomon Islands
+
+A
+
+B
+
+3.1  Sanitation
+
+Sanitation is a process to remove organic matter sources and is especially important to prevent establishment 
+of new populations and to limit the damage from established populations. CRB larvae feed and grow in rotting 
+organic  matter.  The  life  cycle  can  be  disrupted  and  populations  reduced  if  bulk  sources  of  organic  matter 
+can be removed, or at least reduced. Sanitation methods are reviewed in Godshen (2015) and the sanitation 
+programme carried out on Guam has been described by Smith and Moore (2008). Where sanitation is part of 
+the response to a recent invasion by CRB, it is important to keep thorough records of clean-up activities. In any 
+programme to control CRB, a sanitation plan should be developed and carried out, as outlined below.
+
+i.  Removal of standing dead palms
+CRB adults are attracted to standing dead palm trees that have begun to rot from the crown. Females will lay 
+their eggs in the rotting palm trunk and the developing larvae will feed on the decaying fibres near the top of 
+the trunk, which starts to decompose in the centre forming a protective tube for larval development. As the 
+larvae increase in size and strength of their mandibles, they can penetrate further down the trunk leaving a 
+
+14
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriescolumn of frass and cut fibres for the early instars. Dead standing palms should be felled, cut into pieces and 
+burnt or buried to remove potential breeding sites. In some situations, larvae may develop in the crown of live 
+palms. This only occurs where there are large accumulations of organic matter in the frond bases (Moore et al. 
+2014). The organic matter should be removed where possible.
+
+ii.  Disposal of dead felled palms
+Mature palm trees will fall after being weakened by fungal diseases (Ganoderma), after strong winds during 
+cyclones or after the felling of senile palms prior to replanting. The dead palms on the ground should be cut up 
+into manageable lengths prior to disposal by burning or burying. For oil palm plantation renovation, cutting 
+the trunk into small lengths to accelerate breakdown is recommended.
+
+iii.  Covering of palm stumps
+The felling of palms will leave a stump which is suitable for development of larvae as it rots. In management 
+of palm plantations in Asia, where a zero-burning policy is in operation, ground cover is planted shortly after 
+felling to cover the debris and make it less attractive to the flying beetles. The legumes Mucuna spp. and Pueraria 
+javanica are ground cover plants that are commonly used, as they will add nitrogen to the soil and cover the 
+decaying trunks. The same principles should be used by villagers to manage damaged palms. Management of 
+ground cover in Asia is reviewed by Sahid and Weng (2000).
+
+iv.  Management of organic matter and compost
+Heaps  of  organic  matter,  particularly  palm  debris,  provide  excellent  food  material  for  development  of  CRB 
+larvae. Any deep piles of organic material will be attractive to the egg laying females. Heaps of fronds or empty 
+fruit bunches are particularly susceptible. Sawdust from sawmills that process palm timber is also a favourable 
+resource for beetle development. General compost, farmyard manure and even organic garbage can provide 
+sites for development of the larvae. The first step in reducing the threat of beetles emerging from composts is 
+management of the organic matter. Palm debris should be spread among the palms to break down rapidly and 
+release nutrients rather than being piled in heaps. Compost or farmyard manure should be turned regularly, 
+and larvae removed, or pigs and chickens can assist by eating exposed larvae. In urban environments, organic 
+material is often gathered during environmental clean-up and composted, but this may provide a centre for re-
+infestation of the locality. Compost can be sterilised or fumigated to kill larvae; however, this process is energy-
+demanding  and  expensive.  Sterile  compost  will  also  be  susceptible  to  reinvasion.  Where  feasible,  compost 
+heaps can be covered with netting to trap emerging beetles. (For further information, please see below.) 
+
+3.2  Trapping
+
+CRB trapping can be used for different purposes. These include surveillance for early detection, monitoring a 
+population over time, or for mass trapping of a CRB population. In all cases, the trap needs to be attractive for 
+the beetle to enter and strong enough to contain the insect once it is held inside. Attractants can be used to 
+encourage the insect to enter the trap. 
+
+One of the first traps to be developed was the Hoyt trap made from a metal can set on top of a coconut trunk 
+(Fig 3.2 A, Hoyt 1963). The can was capped with a round of coconut stem with a hole in the centre large enough 
+for a beetle to enter. The trap system was used extensively (e.g. Bedford 1975) and functioned because the 
+standing, decaying coconut stem was attractive to the beetle. Another system was a split log trap (Bedford 
+1976b). Sections of split coconut log were laid on the ground and beetles would conceal themselves below the 
+log sections. Design and utility of traps changed with the discovery of ethyl crysanthemumate which can be 
+used as an attractant. This was rapidly superseded by ethyl4-methyloctanoate (E4-MO), the male-produced 
+aggregation pheromone of CRB, which could be synthesised. E4-MO has been used for more than 30 years and 
+is produced commercially as a sachet, which can be placed in a trap (Hallett et al 1995). 
+
+15
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesB
+
+D
+
+A
+
+C
+
+Figure 3.2  CRB traps: A) Hoyt trap (Bedford 1973); B) Log trap (Bedford 1976b);  
+
+                    C) Bucket trap (SPC); D) Pipe trap (PNGOPRA)
+
+Traps for surveillance need to be robust, inexpensive, attractive to beetles, difficult to exit and simple to service. 
+Bucket traps, often with vanes, have been used in surveillance trapping in Guam and Hawaii where thousands 
+of traps have been distributed and monitored for delimitation of the spread of a CRB invasion and to monitor 
+success of control activities. Bucket traps have also been used extensively for monitoring throughout the Pacific 
+Islands and Southeast Asia. 
+
+Construction of a bucket trap
+
+The pheromone bucket trap can be constructed from a plastic bucket with a lid. Two large holes (with a diameter 
+of 2.8 centimetres) and 2 small holes (in the centre) should be made in the lid as illustrated below. The holes can 
+be cut using a hot wire or hot rod. 
+
+The pheromone sachet should be opened and attached with a wire under the bucket lid. The operator should 
+ensure the sachet is not damaged and that it is placed in an upright position inside the bucket. 
+
+The lid should be placed on the bucket (serving as the pheromone trap). In the field, the pheromone trap 
+should be placed on a strong branch with the bucket hanging upright (Prasad S and Lal S, 2006). For diagnostic 
+purposes, such as DNA analysis, beetles should be removed at least once per week and stored individually 
+in plastic containers. If used for monitoring adult beetle numbers, the bucket should be emptied at three-
+week intervals and the collected beetles destroyed. Pheromone sachets need to be replaced every 6–8 weeks 
+(average), given the tropic heat and evaporation levels.
+
+16
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesStages in the construction of a bucket trap. 
+
+Photos: SPC
+
+A more costly alternative to the bucket trap is the pipe trap (Figure 3.2D), which was developed by the oil palm 
+industry in PNG and has been widely used. It is made from a two-metre section of PVC piping secured to an 
+iron bar above a collection tray. Two “windows” are cut into the pipe near the top, which aid entry of the beetles 
+before they fall into the collection chamber. Pipe traps are fixed in surveillance sites and suitable for long-term 
+monitoring. 
+
+Sachets of E4-MO can be placed in either bucket or pipe traps as a lure for the beetles. Traps should be placed 
+in a location that is attractive to the flying beetles (on a ridge or in a specific tree) with the aim of obtaining a 
+consistent representative sample of beetles. The trap position should be fixed (by map or GPS) and recorded. 
+The  traps  should  be  cleared  regularly  (usually  every  7–14  days)  with  beetles  differentiated  into  males  and 
+females and numbers recorded. Sachets of lure should be replaced when they appear to have dried out. This 
+depends on weather conditions, but sachets usually last 1–4 months. 
+
+The E4-MO pheromone is an aggregation pheromone that is attractive to both male and female beetles. The 
+pheromone assists the general orientation of the beetles. However, they are not able to identify the precise 
+location and many will arrive in the vicinity of the trap without entering it. This can result in higher damage to 
+palms close to the trap when compared with the average of the whole plantation.
+
+In the office, trap catches should be analysed, preferably mapped and summarised. The trap catch should be 
+converted to beetles trapped per day, as this figure will be comparable between sites and dates for the same 
+type of trap. An example is presented below, with daily trap catch mapped with time (Figure 3.3). 
+
+Trap information should be complemented with regular photographic assessment of palms around the sample 
+area and satellite images may be used to assist monitoring. Dated satellite images from Google Earth PRO can 
+also be used to provide an indication of changes in damage over time.
+
+17
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesTrapping will remove insects from the population and can contribute to pest and damage reduction and even 
+eradication. Bucket traps baited with pheromone have been reported to reduce CRB populations in Malaysia 
+(Chung 1997) and the related O. monoceros in West Africa (Allou 2006). However, bucket and pipe traps are not 
+sufficient for high-density, invasive populations. 
+
+(Example modified from data provided by Biosecurity Solomon Islands (BSI), Honiara, Solomon Islands) 
+
+Figure 3.3  Pheromone trap collection data sheet  
+
+Improving trap efficiency has been a goal of the research team at the University of Guam where a range of 
+innovative trap designs have been developed (Moore et al. 2014; Iriate et al. 2015). Bucket trap catches have 
+been improved by expanding the size (a barrel trap), and adding organic matter to the trap and a small LED 
+light. In an alternative approach, fish nets made from Tekken netting have been used (Figure 3.4). These act like 
+a fishing gill net, catching beetles as they try to move through it. In Guam, covering heaps of organic waste with 
+Tekken netting has been successful as it catches fresh adults as they emerge from organic waste, where they 
+have developed, as well as beetles that are returning to the organic matter heaps to lay eggs. Netting can also 
+be used in simple traps baited with pheromone on fences or by looping around the palm trunk to entangle the 
+adult beetles as they move to the palm (Moore et al. 2014). 
+
+18
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territories 
+
+ 
+
+Figure 3.4  Use of Tekken netting traps to capture CRB (Iriarte et al. 2015)
+
+Trapping has been used successfully for both monitoring and control. The Hoyt trap was used to monitor the 
+decline of beetle numbers over three years, which was associated with a loss of organic matter for larval feeding 
+(Bedford 1975). Pheromone traps baited with E4-MO can be placed at one trap per 10 hectares to monitor 
+populations in order to establish control action thresholds, or they can be placed at high densities, one per two 
+hectares, in order to reduce CRB populations in plantations (Chung 1997). With improvements in trap design, 
+Moore et al. (2014) estimated the capture of 33 per cent of a CRB population, which would have a significant 
+impact on the population especially if combined with other measures. Tekken netting tied around the palm 
+through  the  leaf  axils  seems  particularly  effective  in  protecting  young  ornamental  palms  from  attack  as  it 
+intercepts the beetles as they move towards the feeding site. 
+
+3.3  Mechanical control
+CRB adults in freshly damaged palms can be located and killed by workers using a wire hook in a process known 
+as winkling. As the beetle bores into the palm petiole (Section 2.5), it produces an excessive amount of cut 
+fibrous material as it drills into the trunk (Fig. 2.8). This will be evident in the axils of the fronds and will indicate 
+the presence of a beetle. A wire can be inserted into the hole and, with skill, the beetle can be removed from 
+the hole and killed. Winkling is mostly used in oil palm where most damage occurs in the crown of young palms 
+and the fresh fibres produced by the beetle can be easily seen. Winkling in coconut palms is more difficult as 
+the worker must climb the palm to see the damage. 
+
+3.4  Chemical control
+Chemical  control  measures  are  most  effective  on  young  palms  against  CRB.  Chemical  pesticides  are  used 
+to  prevent  the  adult  beetle  from  damaging  the  spear  and  growing  point.  The  insecticide,  cypermethrin,  is 
+recommended to protect young oil palm replants in CRB-infested areas but only until the palm starts fruiting 
+as the insecticides can damage the beneficial pollinating weevil (Elaeidobius kamerunicus) (Ismael et al. 2009). 
+Moore (2013) also tested use of cypermethrin for control of CRB in coconut palms in Guam and found it effective 
+when applied to young damaged palms. Trunk injection with Thiosultap disodium (Ero 2016) has also been 
+shown to kill beetles in the crown of mature oil palms (Ero pers. comm.). Some insecticide options for CRB have 
+been described by CABI (www.cabi.org/isc/datasheet/37974); however, their use is limited given the intermittent 
+pattern of attack and the growth of the palms making the crowns unreachable. As the target for protection is 
+
+19
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesthe base of the frond sheath where the beetle penetrates the petiole, granular formulations are an option to 
+facilitate application. Use of any insecticide should conform to the registration regulations of the country of 
+use and be applied with appropriate care. Guidelines for application of synthetic pesticides are provided in SPC 
+documents (e.g. Crop Protection Manual for Trainees, Honiara, Solomon Islands 2012).
+
+3.5  Biological control 
+Biological control is the use of natural enemies (predators, pathogens, parasites) to suppress pest populations 
+(Van Driesche and Bellows 1996). In its native range, CRB is attacked by a community of co-evolved natural 
+enemies (reviewed by Bedford 1980), including pathogenic viruses and fungi, predatory carabid and elaterid 
+beetles  and  parasitic  Scolia  wasps.  The  relative  impact  of  each  natural  enemy  species  within  this  native 
+community is poorly known, with additional control strategies often needed to complement biological control 
+in coconut and oil palm plantations. (See IPM section 3.6.)
+
+When  CRB-S  invaded  the  Pacific,  it  was  the  focus  for  a  substantial  biological  control  programme.  The  aim 
+was to find one (or more) natural enemies in the native range that could be introduced to the invaded range 
+to  suppress  CRB-S  populations  (e.g.  Hoyt  1963).  This  process  is  known  as  classical  biological  control  (Van 
+Driesche and Bellows 1996). Among many natural enemies introduced to the Pacific, very few predators or 
+parasites established (Caltagirone 1981). Incidental predation by pigs and chickens on CRB larvae may assist 
+with control of this pest and can be useful for control of larvae in household or community waste piles. Local 
+species of generalist arthropod predators (centipedes, beetles, ants) may feed on CRB larvae; however, there is 
+little evidence that this contributes significantly to CRB control (Hinckley 1967). Only one pathogen provided 
+significant control of CRB-S: the Oryctes rhinoceros nudivirus (OrNV) discovered in Malaysia by Alois M. Huger. 
+(Huger 2005 summarises the history of virus discovery and its use against CRB.) This virus infects CRB larvae and 
+adults, causing death after 6–30 days. Infected adults are weakened prior to death so that they stop feeding, 
+and their mobility and breeding is reduced. Once established in countries invaded by CRB-S, the virus had a 
+significant impact on CRB populations and reduced palm damage (Huger 2005). Another approach to biological 
+control for CRB was to create a biopesticide from a known pathogen. CRB adults and larvae can be infected by 
+strains of the fungus Metarhizium majus (formerly M. anisopliae var. majus). This fungus has been developed into 
+a biopesticide that can be applied to CRB breeding sites in both the native and invaded range (Bedford 2013). 
+
+The recent invasion of CRB-G has changed CRB management wherever it is found. CRB-G is not susceptible to 
+the strain of OrNV introduced originally to control CRB-S in the Pacific (Marshall et al. 2017). A new biological 
+control effort is underway in order to identify strains of OrNV from CRB’s native range that are effective against 
+CRB-G. Until an effective OrNV strain is discovered, biopesticides containing M. majus are the only option for 
+biological control of CRB-G. 
+
+3.6  Integrated pest management (IPM)
+Integrated pest management (IPM), is a broad-based approach that integrates practices for economic control 
+of  pests.  The  FAO  defines  IPM  as  “the  careful  consideration  of  all  available  pest  control  techniques  and 
+subsequent integration of appropriate measures that discourage the development of pest populations and 
+keep pesticides and other interventions to levels that are economically justified and reduce or minimise risks 
+to human health and the environment. IPM emphasises the growth of a healthy crop with the least possible 
+disruption to agro-ecosystems and encourages natural pest control mechanisms”.
+
+SPC has recommended IPM for management of CRB and includes combination of the factors described above. 
+
+For coconut palms planted for subsistence, ornamental purposes, or in commercial plantations, IPM for CRB 
+involves: i) monitoring of palm damage (section 2.5) to detect localised CRB outbreaks and check that control is 
+successful; ii) biological control (section 3.5) with OrNV (in the invaded and native range) and other co-evolved 
+natural enemies (in the native range only); and iii) sanitation (section 3.1) to remove organic waste, dead palms 
+and  other  potential  breeding  sites.  Sanitation  is  an  essential  component  of  IPM  for  CRB  that  complements 
+
+20
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesbiological control (Huger 2005). Localised CRB outbreaks will occur when breeding sites are left uncontrolled 
+(e.g. after cyclones and tropical storms, when palms are often toppled by high winds and large amounts of 
+green waste is created). Historically, outbreaks of CRB often follow cyclone damage (Jackson and Marshall 2017). 
+A high number of breeding sites are created during plantation renovation, when old palms are felled to make 
+space for replanting. Larvae will develop in the decaying fronds, the trunk and even the root of the felled palm. 
+Some additional options may be incorporated into IPM programmes for coconut, particularly for commercial 
+plantations or ornamental palms. These more costly options include pheromone traps to monitor adult beetle 
+activity and complement it with visual surveys of palm damage. Occasionally, trap catches may be high enough 
+to  contribute  to  population  suppression  in  coconut  plantations  (Bedford  2013),  but  this  strategy  is  more 
+relevant to oil palm (discussed below). Commercial products containing the fungus M. majus may be applied 
+to CRB breeding sites that cannot be removed. Insecticide treatments are not recommended for established 
+coconut palms (section 3.4) as there is a potential risk of translocation of insecticides (move within the palm), 
+leaving harmful residues in the coconut. If a recent invasion of CRB is targeted for eradication, insecticides 
+may  be  necessary  for  success  (Figure  3.6).  In  this  situation,  expert  advice  is  needed  to  determine  the  most 
+appropriate choice of insecticide, to advise on the length of time residues will persist, and to ensure insecticide-
+contaminated coconuts are not harvested for human consumption. 
+
+For higher value crops, particularly oil palm, the same components are needed as for coconut: monitoring; 
+biological control; and sanitation. More costly IPM components are recommended for oil palm because the 
+crop’s financial value makes greater investment in control worthwhile (reviewed by Bedford 2014). Thus, IPM for 
+CRB in oil palm involves: i) monitoring of beetle activity with pheromone traps (section 3.2) and palm damage 
+(section 2.5), particularly for young palms; ii) biological control (section 3.5) with OrNV (invaded and native 
+range) and other natural enemies (native range) plus application of M. majus biopesticides to breeding sites 
+that cannot be removed; and iii) sanitation to remove organic waste (section 3.1), particularly during plantation 
+renewal when large amounts of waste is generated; iv) insecticide treatments (section 3.4) for young palms that 
+are most sensitive to CRB damage. Note that pollinators of oil palm are vulnerable to insecticides, so applications 
+should be scheduled carefully to avoid flowering. When oil palm plantations are renewed, complete clean-up 
+of the organic waste is challenging. In CRB’s native range, an additional strategy is to break up and spread the 
+waste as a thin layer, then plant a fast-growing cover crop, often a legume, over the waste matter (Wood 1968). 
+
+A decision tree to identify IPM options for coconut and oil palms is presented below (Figure 3.5). This includes 
+decision  points  to  consider  potential  for  eradication  of  recent  CRB  invasions  as  well  as  management  of 
+established CRB populations. 
+
+Figure 3.5   IPM decision tree for CRB control in its invasive range. This tree can be used for either CRB-S  
+or CRB-G; however, note that an effective strain of Oryctes virus has not yet been identified for CRB-G. 
+
+21
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesReferences 
+
+Allou K, Morin J-P, Kouassi P, N’lo FH, Rochat D. 2006. Oryctes 
+monoceros  trapping  with  synthetic  pheromone  and 
+palm  material  in  Ivory  Coast.  Journal  of  Chemical 
+Ecology 32: 1743-1754.
+
+Bedford GO. 1975. Trap catches of the coconut rhinoceros 
+beetle Oryctes rhinoceros (L.) (Coleoptera, Scarabaeidae, 
+Dynastinae) in New Britain. Bulletin of Entomological 
+Research 65(3):443-451.
+
+Bedford  GO.  1976a.  Mass  rearing  of  the  coconut  palm 
+
+rhinoceros beetle for release of virus. PANS 22: 5-10.
+
+Bedford GO. 1976b. Use of a virus against the coconut palm 
+
+rhinoceros beetle in Fiji. PANS 22: 11-25.
+
+Bedford  GO.  1980.  Biology,  ecology,  and  control  of  palm 
+rhinoceros  beetles.  Annual  Review  of  Entomology 
+25: 309-339.
+
+Bedford  GO.  2013.  Biology  and  management  of  palm 
+dynastid beetles: recent advances. Annual Review of 
+Entomology 58: 353-372.
+
+Bedford  GO.  2014.  Advances  in  the  control  of  rhinoceros 
+beetle, Oryctes rhinoceros in oil palm. Journal of Oil Palm 
+Research 26: 183-194.
+
+Caltagirone LE. 1981. Landmark Examples in Classical Biological 
+
+Control. Annual Review of Entomology 26: 213-232.
+
+Chung  GF.  1997.  The  bioefficacy  of  the  aggregation 
+pheromone  in  mass  trapping  of  rhinoceros  beetles 
+(Oryctes rhinoceros L.) in Malaysia. Planter 73(852):119-127.
+Ero M. 2016. Dimehypo™ (Thiosultap disodium); an alternative 
+to Methamidophos for the control of oil palm foliage 
+pests  in  Papua  New  Guinea.  The  OPRAtive  word. 
+Scientific Note 5, July 2016.
+
+Godshen  RP.  2015.  Oryctes  rhinoceros  (L.)  Coleoptera: 
+Scarabaeidae.  Coconut  Rhinoceros  Beetle.  New  Pest 
+Response Guidelines. USDA, 180 pp.
+
+Hallett RH, Perez AL, Gries G, Gries R, Pierce HD, Yue J, ...and Borden 
+JH. 1995. Aggregation pheromone of coconut rhinoceros 
+beetle, Oryctes rhinoceros (L.)(Coleoptera: Scarabaeidae).  
+Journal of Chemical Ecology, 21(10), 1549-1570.
+
+Hinckley  AD.  1967.  Associates  of  the  coconut  rhinoceros 
+beetle Oryctes rhinoceros (L.) in Western Samoa. Pacific 
+Insects 9: 505-511.
+
+Hoyt CP. 1963. Investigations of rhinoceros beetles in West 
+
+Africa. Pacific Science 17: 444-451.
+
+Huger AM. 2005. The Oryctes virus: its detection, identification, 
+and implementation in biological control of the coconut 
+palm rhinoceros beetle, Oryctes rhinoceros (Coleoptera: 
+Scarabaeidae). Journal of Invertebrate Pathology 89: 78-84.
+Hurpin B and Fresneau M. 1973. Etude en laboratoire des 
+facteurs  de  fécondité  de  Oryctes monoceros  Ol.  et  O. 
+rhinoceros L. (Col. Scarabaeidae). Annales de la Société 
+Entomologique de France (Nouvelle Série) 9: 89-117.
+
+Iriarte  I,  Quitugua  R,  Terral  O,  Moore  A  and  Sanders  M. 
+2015.  Coconut  rhinoceros  beetle,  trapping  methods. 
+Extension  pamphlet.  Coconut  rhinoceros  beetle 
+
+22
+
+programme, College of Natural and Applied Sciences, 
+University  of  Guam,  2pp.  http://guaminsects.net/anr/
+sites/default/files/Trapping%20Final.pdf
+
+Ismael  AR,  Tey  CC,  Mohd  AA,  Tee  BH,  Tong  CH,  Yeong 
+SK  and  Hazimah  AH.  2009.  Palm  emulsion  in  water 
+(EW)-cypermethrin insecticide against the rhinoceros 
+beetle,  Oryctes  rhinoceros,  in  oil  palm  plantation.  Oil 
+Palm Bulletin 59; 12-17.
+
+Jackson TA and Marshall SDG. 2017. Managing the threat of 
+CRB-G, a new variant of the coconut rhinoceros beetle, 
+in  the  Asia-Pacific  region.  Proceedings  of  the  PIPOC 
+20117 International Palm Oil Conference (Agriculture, 
+Biotechnology and Sustainability), Vol. 1, pp. 25-30.
+
+Manley  M,  Melzer  MJ,  Spafford  H.  2018.  Oviposition 
+preferences  and  behavior  of  wild-caught  and 
+laboratory-reared coconut rhinoceros beetles, Oryctes 
+rhinoceros  (Coleoptera:  Scarabaeidae), 
+in  relation 
+to  substrate  particle  size.  Insects  9:  141.  Available  at: 
+https://doi.org/10.3390/insects9040141. 
+
+Marshall  SDG,  Moore  A,  Vaqalo  M,  Noble  A  and  Jackson 
+TA. 2017. A new haplotype of the coconut rhinoceros 
+beetle, Oryctes rhinoceros, has escaped biological control 
+by  Oryctes  rhinoceros  nudivirus  and  is  invading  Pacific 
+Islands. Journal of Invertebrate Pathology 149: 127-134.
+
+Moore  A.  2013.  Cypermethrin  Applied  to  Coconut  Palm 
+Crowns  as  a  Prophylactic  Treatment  for  Prevention 
+of  CRB  Damage.  University  of  Guam  Cooperative 
+Extension Service (Technical note) November 5, 2013.
+
+Moore  A,  Quitugua  R,  Siderhurst  M  and  Jang  E.  2014. 
+Improved  traps  for  the  coconut  rhinoceros  beetle, 
+Oryctes 
+Entomological 
+Society of America Annual Meeting, Portland Oregon, 
+November 19, 2014.
+
+rhinoceros.  Presentation, 
+
+Ramle M, Wahid MB, Norman K, Glare TR, Jackson TA. 2005. 
+The incidence and use of  Oryctes virus for control of 
+rhinoceros beetle in oil palm plantations in Malaysia. 
+Journal of Invertebrate Pathology 89: 85-90.
+
+Sahid  I  and  Weng  CK.  2000.  Integrated  ground  cover  
+management in plantations. pp. 623-652 in Advances in Oil 
+Palm Research. Vol 1. Basiron Y, Jalani BS and Chan KW. (Eds).
+Smith  SL  and  Moore  A.  2008.  Early  detection  pest  risk 
+assessment:  Coconut  rhinoceros  beetle.  Available  at: 
+https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/
+fsbdev3_045865.pdf
+
+IRHO (Institut de Recherches pour les Huiles et Oleagineux) 
+1991.  Oil  palm  insect  pests  and  their  enemies  in 
+Southeast Asia. Oleagineux Numerospecial Publication 
+Mensuelle 46(11): 405-407.
+
+Van Driesche RG and Bellows TS. 1996. Biological Control. 
+
+New York, Chapman and Hall, p. 539.
+
+Wood BJ. 1968. Studies on the effect of ground vegetation 
+on 
+(Col., 
+Dynastidae) in young oil palm replantings in Malaysia. 
+Bulletin of Entomological Research 59: 85-96.
+
+infestations  of  Oryctes  rhinoceros 
+
+(L.) 
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesAnnex 1.  Delimiting survey for assessing an outbreak of CRB
+
+Example: Delimiting survey of CRB palm damage in Solomon Islands
+
+Prepared 2019/05/15 by AgResearch with assistance from The Pacific Community (SPC) and Ministry of Agriculture 
+and Livestock (Solomon Islands) 
+
+Equipment required
+
+• 
+
+• 
+
+• 
+
+Trip plan
+
+Camera with GPS capability (tablet, or cell phones with cameras and GPS tagging also acceptable): 
+Ensure date and time are set correctly
+
+Power banks to keep camera batteries charged: Ensure fully charged
+
+•  Maps of the survey area
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+(optional) GPS unit + spare batteries
+
+3 CRB pheromone traps plus the lures: The bucket trap system is often a good option (especially with 
+addition of a used copra sack to wrap around buckets); however, other traps also could be used
+
+Sampling tubes to collect live CRB adults (or larvae where no adults are found): A separate tube for each 
+collection point, bringing enough to avoid running out
+
+Small tubes for individual collection of interesting samples (bring ~50)
+
+Bush knife, hand axe, crowbars, spades to dig into logs with suspected breeding sites
+
+Stationery to record notes by hand and to label containers
+
+Safety equipment as required by Ministry of Agriculture and Livestock (MAL - Solomon Islands) policies
+
+Awareness materials for distribution
+
+Trip report
+
+How to conduct a delimiting survey
+
+• 
+
+• 
+
+• 
+
+A delimiting survey is to be carried out following a report of CRB damage and/or after a CRB insect 
+(adult or larva) has been collected and positively identified as CRB.
+
+The trip to a reported area should be planned by Biosecurity Solomon Islands (BSI). The length of time 
+on the island will be determined by local conditions. The extension officer will make local arrangements 
+prior to the trip commencing.
+
+The end goal is to have a report that informs further clean-up and control of CRB.
+
+23
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesDay 1
+• 
+
+Upon arrival at the site where the CRB presence was reported, contact village leaders, as prearranged 
+by the local extension officer.
+
+• 
+
+Describe the site. 
+
+•  Record notes of the site (as per the questions outlined in the KoboCollect CRB form), being sure to 
+
+record the location by landmark or village as well as by GPS. 
+
+•  Photograph the palms in the area (with GPS on!). Take pictures of both CRB damaged and non-CRB 
+palms along with general photos of the area (village, plantation, etc). Ideally, it should be feasible to 
+count 50 palms in the photos taken. Ensure the palm crowns can be seen easily so that any damage 
+(e.g. a silhouette to notches) can be observed.
+
+•  Look for potential CRB breeding sites and, when found, collect live adults. If no adults are found, 
+
+collect live larvae. (Aim to collect 20-30 beetles from this ground zero site.) 
+
+• 
+
+Instructions for handling, labelling, storing, and transporting collected CRB are provided at the end 
+of this manual. CRB adults and larvae are to be brought back alive so that tissue samples from them 
+can be dissected and preserved by trained staff at the MAL Henderson site. 
+
+• 
+
+Set up three pheromone traps at the reported invasion site (ground zero) and space the pheromone 
+traps at least 100 metres apart. Be sure to record locations using GPS (or take photos with GPS activated). 
+Follow the directions for use of pheromone traps. Refer to Figure 3.2 where bucket trap are used as an 
+example. Collect trapped beetles at least every second day. 
+
+Days 2 to 5 (approximate; timeframe dependent on individual trip plan)
+
+• 
+
+Using roads or tracks, travel along and look for damage and breeding sites. Initially, record what is seen 
+every 1 kilometre. After 3 kilometres, adjust the frequency as appropriate.
+
+•  Take photos along the way.
+
+•  Travel until no further damage is detected. Photograph the site and mark this on the map. Then go 
+
+down another road and repeat in all directions from the ground zero point. 
+
+•  When breeding sites are identified, record the GPS of the site (also taking note of the location by way 
+of a landmark) and collect adults. If no adults are found, collect larvae. Collect up to 10 beetles per 
+collection site (overall no more than 100 beetles per island). CRB from each collection site should be 
+stored separately. (For further information, please see Annexes).
+
+• 
+
+• 
+
+If needed, use local knowledge to move to a second (3rd, 4th, etc; based on the trip plan) reported 
+invasion point on the island and repeat the delimiting survey procedures.
+
+Continue the delimiting survey activities until the area(s) of damage has been fully mapped, as far as is 
+feasible based on time available on the island.
+
+Final day(s)
+
+• 
+
+Have a team meeting and invite appropriate village leaders and farmers to discuss findings from the 
+trip, share maps, reinforce awareness materials, and introduce initial sanitation and control measures.
+
+24
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesUpon return to the head office
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Ensure a report has been written by the team and submitted in a timely manner (i.e. within one week 
+of return).
+
+Provide CRB samples to the MAL team responsible for dissection and preservation of tissues from the 
+CRB samples. The tissue will then be sent to New Zealand for further processing and analysis.
+
+Pictures should be downloaded and backed up as soon as possible. The GPS tagged photos are to be 
+made available with the report for further analysis by the appropriate MAL staff.
+
+ROC will discuss report findings from the delimiting survey and will determine the course of action to 
+be implemented for that island.
+
+BECC will compile the data from all delimiting survey reports. Where required, this information can be 
+used to prioritise activities nationally (CRB eradication, management, etc).
+
+25
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesAnnex 2.  CRB emergency response plan
+
+During the advent of an outbreak of CRB, mobilisation of the Biosecurity Incident Management System (BIMS) 
+framework of actions is paramount.
+
+Response  to  incidents  will  necessitate  the  establishment  of  an  organisational  structure,  specific  to  the 
+management of that incident. 
+
+This structure will have two functions or commands:
+
+1.  Provision of strategic policy and direction (gold); and
+
+2.  Designing, planning and implementing operational activities (silver, bronze and blue field levels).
+
+Gold – members of the national management group
+1.  Heads of relevant government agencies (ministers or secretary) – Biosecurity NPPO/Agriculture – chair
+
+2.  Representation from industry bodies (if any) that may be impacted by the biosecurity incident
+
+3. 
+
+Local (provincial) government representatives – Also linked to existing National Disaster Management 
+Operations (NDMO) team
+
+4.  Chief Plant Protection Officer (CPPO) 
+
+Silver – member of the consultative committee
+1. 
+
+The Chief Plant Protection Officer / Chief Technical Officer (Chief Plant Protection Officer or equivalent) 
+– chair
+
+2.  Representatives from effected industries (if any)
+
+3.  Representatives from other government branches (e.g. plant health and extension services, diagnostics, 
+
+human health)
+
+4.  Representatives of local government – Linked to existing NDMO team
+
+5.  Bronze level of command’s Operation Manager 
+
+Bronze – member of the local control centre
+1.  Home of the National Incident Team: ACTION!
+
+2.  Head of plant health and/or extension services – chair
+
+3.  Operation manager of the National Coordination Centre (if in place) 
+
+4. 
+
+Incident Manager(s) of the National Control Centres
+
+5.  Any other relevant specialists (scientists, diagnosticians, etc.)
+
+ 
+
+ 
+
+ 
+
+26
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesOperational Policy and implementation
+
+1.  Operational  policy  and  implementation  are  coordinated  through  the  establishment  of  operations 
+
+centres at levels appropriate for the particular incident. 
+
+2.  Coordinated approach to incident response occurs at the following levels:
+
+i. 
+
+ii. 
+
+national level;
+
+regional or provincial level; and
+
+iii. 
+
+local or district (field) level.
+
+Application of Incident Management System
+
+Phases of a response to a biosecurity incident
+
+1. 
+
+Investigation and alert phase
+
+2.  Operational phase
+
+3.  Stand-down phase
+
+4.  Relief and recovery phase
+
+Response 1. Investigation and alert phase
+
+• 
+
+The  investigation  and  alert  phase  begins  when  a  notifying  party  declares  that,  based  on  an  initial 
+analysis of the pest (or disease), an outbreak (potentially of an Economic Plant Pest (EPP)) exists or has 
+the potential to exist.
+
+27
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territories• 
+
+During the Investigation and alert phase:
+
+1. 
+
+2. 
+
+3. 
+
+a confirmation of diagnosis is made;
+
+the extent of EPP incursion/outbreak is scoped;
+
+a response plan is prepared (out of the pest-specific contingency plan); and
+
+• 
+
+Gold and Silver levels of command are convened.
+
+Response 2. Operational phase
+
+• 
+
+• 
+
+• 
+
+• 
+
+The  operational  phase  begins  when  the  presence  of  the  pest  is  confirmed  and  activities  under  a 
+response plan (from pest-specific contingency plan) are implemented. 
+
+The aim of the operational phase is to contain and attempt eradication (if feasible).
+
+During the Operational phase:
+
+1. 
+
+local Control Centres are established. 
+
+At the end of the operational phase:
+
+2.  additional surveillance is needed to demonstrate freedom.
+
+Response 3. Stand-down phase
+
+• 
+
+The stand-down phase begins when:
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+the Investigation and alert phase fail to confirm the presence of a pest; or
+
+the response strategy has been effective; or
+
+the eradication of a pest is not considered feasible, cost-effective or beneficial; and
+
+the relevant National Management Group (Gold level) formally declares that the pest outbreak is over.
+
+• 
+
+Finally, at the end of the stand-down phase:
+
+1. 
+
+The National Consultative Committee (Silver level), if established for the response, will conclude its 
+activities and stand down.
+
+2.  The National Management Group (Gold level), if established for the response, will conclude its 
+
+activities and stand down. 
+
+Response 4. Recovery phase
+
+Relief and recovery include coordination of support and the provision of information to affected communities 
+in order to mitigate the impacts of the pest and eradication effort.
+
+This is particularly important if facilities and livestock have been destroyed or livelihoods have been affected by 
+the removal and destruction of crops or cropping systems. 
+
+Reference
+
+Perrone  TS.,  2020.  Biosecurity  Incident  Management  System  Training;  Biosecurity  Agri-system  Protection 
+
+Propriety Ltd. Biosecurity Authority of Fiji, November 2019.
+
+28
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesAnnex 3.  Guidelines for field collection of live CRB adults and larvae
+
+Field collection of live CRB adults and larvae
+
+• 
+
+CRB collection should be carried out at several sites during a delimiting survey. 
+
+•  Each CRB collection site requires a separate container. 
+
+•  CRB adults should be kept separate from larvae if both are collected. 
+
+•  Bring enough containers on the trip to ensure all collection sites can be sampled.
+
+•  Use  sturdy  plastic  containers  that  have  a  screw  top  or  clip  top  lid  to  prevent  escape.  About  500 
+
+millilitres (~10 x 10 x 10 centimetres). These should hold up to 10 individuals.
+
+•  Small air holes must be made in the tops of the containers.
+
+• 
+
+Handle CRB gently. Do not throw or drop them into the containers. Larvae are very sensitive to bruising. 
+
+•  Add a small amount of breeding site compost.
+
+•  Only collect live CRB.
+
+•  Prioritise adult CRB for collection. 
+
+•  Where this is not possible, collect larvae instead.
+
+• 
+
+• 
+
+• 
+
+• 
+
+During collection, label each container with a unique site name that can be traced back to the GPS 
+location. Record the number of CRB collected, their respective stage (adults, larvae) and, for adults, the 
+numbers of males and females, if possible.
+
+Store containers with live beetles out of direct sunlight so they do not cook! Take care not to leave them 
+in an enclosed, unattended vehicle where temperatures can become very hot. 
+
+Transport the beetles back to the MAL staff responsible for dissection and preservation of the tissue 
+samples. These will be sent to the New Zealand team for further analysis.
+
+Note that, while dissection and preservation of tissue in the field is theoretically possible, you need to 
+have had: 1) the right training to ensure cross contamination between samples is avoided; and 2) access 
+to facilities on the field trip to ensure proper storage so the preserved tissue remains in good condition. 
+Hence, we recommend field collection of live CRB.
+
+Collection of unusual CRB samples that may contain new pathogens
+
+While conducting a survey, you may come across CRB adults or larvae that appear to be unusual and/or sites 
+where mortality is higher than expected.
+
+If you do find samples of interest or an interesting site, take the steps outlined below.
+
+• 
+
+• 
+
+• 
+
+Record the location (GPS), take photos and, if possible, collect samples into individual tubes.
+
+Black larvae have been dead for some time. These are not useful as fresh specimens. 
+
+Record what you noticed that is unusual compared to healthy beetles you have observed (e.g. infected 
+with fungus (fuzzy coating), odd colouration (e.g. red, bright white, light brown, etc), lethargic, glossy or 
+swollen larvae). For adults, fungal infection is most likely to be observed, but lethargic or other unusual 
+symptoms may also to be seen.
+
+29
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territories•  Note, fungal-infected insects (fuzzy coating) do not always indicate death by an insecticidal fungus. 
+
+Following death, saprophytic fungi grow quickly and can look similar to some insecticidal fungi.
+
+• 
+
+• 
+
+Interesting sites tend to have multiple insects with similar symptoms. However, this is not always the 
+case; it is possible to find unique specimens.
+
+Record the location and observations in your report so that someone can revisit the site if it is deemed 
+important.
+
+30
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesAnnex 4.  Collection, preparation and shipment of CRB samples  
+ 
+
+for DNA analysis
+
+ 
+
+ 
+
+Sample collection
+
+• 
+
+• 
+
+• 
+
+Give each Coconut Rhinoceros Beetle (CRB) specimen a unique reference number. 
+
+Record the reference number and supporting information for each specimen on a data sheet. 
+
+Supporting information includes: the name of the collector; the date it was collected; and a description 
+of the location where it was collected and/or GPS coordinates. 
+
+Sample preparation for DNA analysis
+
+• 
+
+• 
+
+• 
+
+• 
+
+For each specimen, cut off both (2) hind legs and place them in a small (1-2 millilitre) leak-proof tube. 
+
+Label the tube with the reference number. 
+
+Add 1 millilitre monopropyleneglycol (MPG) to the tube and close the lid.
+
+Store tubes in the freezer until they are ready to be sent to the specialist laboratory.
+
+Packaging samples for shipment
+
+• 
+
+• 
+
+• 
+
+Place all tubes into a plastic Ziploc bag with some paper towels and seal the bag.
+
+Place the first bag of tubes into a second Ziploc bag and seal it. 
+
+Place double bagged tubes into a crush-proof container lined with paper towels and seal it.
+
+•  Wrap the container in bubble wrap or newspaper and place it into a strong cardboard box.
+
+• 
+
+Place required documents (outlined below) inside the box and, then, seal it with packing tape. 
+
+Documents and labels for shipment
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Inside the box, place a copy of the data sheet and a short description of its contents. 
+
+Seal the box and attach labels or place the box in a courier bag and attach labels to the bag.
+
+Attach labels: 1) a short description of the contents; 2) the sender’s name and address; 3) the recipient’s 
+name and delivery address; and 4) a courier waybill or equivalent.
+
+Ship the package using a tracked courier service.
+
+Email the recipient the tracking number, the date the package was sent, and a copy of the datasheet. 
+
+31
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesSample shipping label
+
+Contact Details 
+
+Receiver (ship to):
+
+[Name and address of specialist laboratory]
+
+Sender (shipped from):
+
+[Your name and address]
+
+Description of contents:
+
+For research purposes only.
+
+[number of] vials of dead, non-infectious coconut 
+rhinoceros beetle (Oryctes rhinoceros) tissue preserved 
+in mono-monopropylene glycol (MPG) as a preservative. 
+MPG is not classified as hazardous according to 
+Schedules 1 to 6 of the Dangerous Goods Regulations.
+
+[add country-specific regulations here]
+
+32
+
+Coconut rhinoceros beetle (Oryctes rhinoceros): A manual for control and management of the pest in Pacific Island countries and territoriesProduced by the Pacific Community (SPC)
+Suva Regional Office, Private Mail Bag, Suva, Fiji 
+Telephone: + 679 337 0733
+Email: spc@spc.int 
+Website: www.spc.int
+
+© Pacific Community (SPC) 2020
+
+

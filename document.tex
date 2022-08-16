@@ -1,0 +1,24 @@
+% Wide figure in two column document LaTeX
+\documentclass[twocolumn]{article}
+
+% For including images  
+\usepackage{graphicx}
+
+% For dummy text
+\usepackage{lipsum}
+
+\begin{document}
+
+\lipsum
+
+\begin{figure*}
+    \centering
+    \includegraphics[width=\textwidth]{images/crb_dist}
+    \caption{This is a wide figure that spans both columns.}
+    \label{fig:img1}
+\end{figure*}
+
+\lipsum
+asas asas asas \ref{fig:img1}
+
+\end{document}
