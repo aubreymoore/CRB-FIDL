@@ -3,18 +3,64 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Biology}{3}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Geographic distribution}{3}{section.2}%
+\contentsline {subsection}{\numberline {1.1}Taxonomy}{3}{subsection.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Detection and monitoring}{4}{section.3}%
+\contentsline {subsection}{\numberline {1.2}Life cycle and reproduction}{3}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Control}{4}{section.4}%
+\contentsline {subsection}{\numberline {1.3}Larval feeding behavior}{3}{subsection.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1}Sanitation}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {1.4}Adult feeding behavior}{4}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2}Pheromone traps}{4}{subsection.4.2}%
+\contentsline {subsection}{\numberline {1.5}Population dynamics}{4}{subsection.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.3}Biological control}{4}{subsection.4.3}%
+\contentsline {subsection}{\numberline {1.6}Geographic distribution}{5}{subsection.1.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.4}Chemical control}{4}{subsection.4.4}%
+\contentsline {section}{\numberline {2}Control tactics}{5}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.5}Netting}{4}{subsection.4.5}%
+\contentsline {subsection}{\numberline {2.1}Eradication}{5}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Sanitation}{5}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Breeding site detection}{5}{section*.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Removal of standing dead palms}{6}{section*.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Disposal of dead felled palms}{6}{section*.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Covering of palm stumps}{6}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Management of organic matter and compost}{6}{section*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Trapping}{6}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Artificial breeding sites}{7}{section*.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Pheromone traps}{7}{section*.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Efficacy of pheromone traps for population suppression}{7}{section*.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Tekken fish net traps}{7}{section*.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Chemical control}{8}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Foliar application}{8}{section*.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Trunk injection}{8}{section*.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Treatment of breeding sites}{8}{section*.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Biological control}{8}{subsection.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Damage surveys}{9}{subsection.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7}Integrated pest management}{9}{subsection.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Bedford, Geoffrey O. 1980.}{10}{section*.20}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Gressitt, J. Linsley 1953.}{10}{section*.21}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Jackson, Trevor, Sean Marshall, Sarah Mansfield and Fereti Atumurirava 2020.}{10}{section*.22}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Marshall, Sean D. G., Aubrey Moore, Maclean Vaqalo, Alasdair Noble, and Trevor A. Jackson 2017.}{10}{section*.23}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\nonumberline Pallipparambil, Godshen R. 2015.}{10}{section*.24}%
