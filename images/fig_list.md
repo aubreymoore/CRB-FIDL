@@ -20,7 +20,7 @@ File name: rhino_beetle_head.jpg
 
 File name: crb_life_cycle.png
 
-![](crb_life_cycle.png
+![](crb_life_cycle.png)
 
 
 Fig. 3	dying_coconuts.jpeg
