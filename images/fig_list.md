@@ -16,69 +16,112 @@ File name: crb_life_cycle.png
 
 File name: dying_coconuts.jpeg
 
+![](dying_coconuts.jpeg)
+
 ## Fig. 4	
 
 File name: vshaped-cuts.png
+
+![](vshaped-cuts.png)
 
 ## Fig. 5	
 
 File name: bore-hole-through-petiole.png
 
+![](bore-hole-through-petiole.png)
+
 ## Fig. 6	
 
-File name: Bore-hole.png
+File name: bore-hole.png
+
+![](bore-hole.png)
 
 ## Fig. 7	
+
 File name: crb_dist.png
 
+![](crb_dist.png)
+
 ## Fig. 8	
+
 File name: hoyt-trap.png
 
+![](hoyt-trap.png)
+
 ## Fig. 9	
-File name: Log-tap.png
+
+File name: log-trap.png
+
+![](log-trap.png)
 
 ## Fig. 10	
-File name: Spc-bucket.png
+
+File name: spc-bucket.png
+
+![](spc-bucket.png)
 
 ## Fig. 11	
 
-File name: Uog-bucket.png
+File name: uog-bucket.png
+
+![](uog-bucket.png)
 
 ## Fig. 12	
 
-File name: Panel-trap.png
+File name: panel-trap.png
+
+![](panel-trap.png)
+
 ## Fig. 13	
 
-File name: Tekken-beetle.png
+File name: tekken-beetle.png
+
+![](tekken-beetle.png)
 
 ## Fig. 14	
 
-File name: Tekken-pile.png
+File name: tekken-pile.png
+
+![](tekken-pile.png)
 
 ## Fig. 15A	
 
-File name: Defence-trap.png
+File name: defence-trap.png
+
+![](defence-trap.png)
 
 ## Fig. 15B	
 
-File name: Defence-trap-lure.png
+File name: defence-trap-lure.png
+
+![](defence-trap-lure.png)
 
 ## Fig. 16
 
 File name: j5index0.resized.png
 
+![](j5index0.resized.png)
+
 ## Fig. 17
 
 File name: j5index1.resized.png
+
+![](j5index1.resized.png)
 
 ## Fig. 18
 
 File name: j5index2.resized.png
 
+![](j5index2.resized.png)
+
 ## Fig. 19
 
 File name: j5index3.resized.png
 
+![](j5index3.resized.png)
+
 ## Fig. 20
 
 File name: j5index4.resized.png
+
+![](j5index4.resized.png)
