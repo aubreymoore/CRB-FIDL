@@ -4,17 +4,23 @@
 
 File name: rhino_beetle_head.jpg
 
+Creator: Michael Bohne, U.S. Forest Service 
+
 ![](rhino_beetle_head.jpg)
 
 ## Fig. 2	
 
 File name: crb_life_cycle.png
 
+Creator: Aubrey Moore, University of Guam
+
 ![](crb_life_cycle.png)
 
 ## Fig. 3	
 
 File name: dying_coconuts.jpeg
+
+Creator: Aubrey Moore, University of Guam
 
 ![](dying_coconuts.jpeg)
 
