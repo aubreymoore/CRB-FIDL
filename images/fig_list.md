@@ -50,9 +50,9 @@ File name: hoyt-trap.png
 
 ## Fig. 9	
 
-File name: log-trap.png
+File name: log-tap.png
 
-![](log-trap.png)
+![](log-tap.png)
 
 ## Fig. 10	
 
