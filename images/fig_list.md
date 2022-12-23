@@ -107,3 +107,12 @@ Creator: Trevor Jackson
 File name: j5index4.resized.png
 Creator: Trevor Jackson
 ![](https://github.com/aubreymoore/CRB-FIDL/raw/main/images/j5index4.resized.png)
+
+## File names for each creator
+
+Michael Bohne [rhino_beetle_head.jpg]
+
+Aubrey Moore [crb_life_cycle.png, dying_coconuts.jpeg, vshaped-cuts.png, bore-hole-through-petiole.png, bore-hole.png, crb_dist.png, uog-bucket.png, panel-trap.png, tekken-beetle.png, tekken-pile.png, defence-trap.png, defence-trap-lure.png]
+
+Trevor Jackson [hoyt-trap.png, log-tap.png, spc-bucket.png, j5index0.resized.png, j5index1.resized.png, j5index2.resized.png, j5index3.resized.png, j5index4.resized.png] 
+
