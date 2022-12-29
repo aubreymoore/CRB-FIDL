@@ -58,9 +58,10 @@ Creator: Aubrey Moore
 ![](https://github.com/aubreymoore/CRB-FIDL/raw/main/images/uog-bucket.png)
 
 ## Fig. 12
-File name: panel-trap.png
-Creator: Aubrey Moore
-![](https://github.com/aubreymoore/CRB-FIDL/raw/main/images/panel-trap.png)
+File name: panel-trap.jpg
+Creator: Darek Czokajlo
+Caption: Coconut rhinoceros beetle panel trap. Image courtesy of Darek Czokajlo, AlphScents Inc.
+![](https://github.com/aubreymoore/CRB-FIDL/raw/main/images/panel-trap.jpg)
 
 ## Fig. 13
 File name: tekken-beetle.png
